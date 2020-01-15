@@ -1,8 +1,3 @@
-<style>
-  p.a{
-   background-color: orange;
-  }
-  </style>
 <p align="center" class="a">About Ddos</p>
 <br>
 <p> Ddos is one way for attacking to servers . In this way, hackers use some tools for sending a lot of packets for down the server and websites. Ddos means attacking to one server with a lot of people but, dos means attacking to server by one person. I advice that Ddos attack is better than dos for big websites.<p>
