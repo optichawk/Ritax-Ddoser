@@ -1,5 +1,5 @@
 #Python2
-#RiTaX
+#RiTaX or optichawk
 import time, socket, sys, thread
 
 print'''
